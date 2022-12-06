@@ -130,6 +130,7 @@ article {
     text-align: center;    
 }
 
+
 .botoes a{
     display: inline-block;
     text-decoration: none;
@@ -139,7 +140,14 @@ article {
     padding: 5px;
     width: 49%;
     margin-bottom: 20px;
-    text-align: center;    
+    text-align: center;
+    transition: 0.2s;   
+}
+
+.botoes a:hover {
+    background-color: #fff;
+    color: #111;
+    border: 1px solid #111;
 }
 
 aside {
