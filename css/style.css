@@ -121,6 +121,10 @@ article {
     margin: 0px 5px 10px;
 }
 
+.sobre h1{
+    font-size: 50px;
+}
+
 .botoes {
     width: 100%;
     text-align: center;    
